@@ -1,6 +1,6 @@
 {
   "name": "httpsocket",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "websocket API implemented using HTTP in way that works the same in node and browsers",
   "main": "index.js",
   "scripts": {
