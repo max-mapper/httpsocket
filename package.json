@@ -1,0 +1,27 @@
+{
+  "name": "httpsocket",
+  "version": "1.0.0",
+  "description": "websocket API implemented using HTTP in way that works the same in node and browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "websocket",
+    "http",
+    "socket",
+    "stream"
+  ],
+  "author": "max ogden",
+  "license": "BSD",
+  "dependencies": {
+    "debug": "^2.1.0",
+    "duplexify": "^3.2.0",
+    "eventsource": "^0.1.4",
+    "hat": "0.0.3",
+    "nets": "^2.0.0",
+    "pumpify": "^1.3.3",
+    "ssejson": "^1.1.1",
+    "through2": "^0.6.3"
+  }
+}
